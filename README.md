@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/62/55/2d62553f647f7e4a4a7ed6d54a86c8b7.gif" width="600" />
+</p>
 
-<!--
-**pratikshapatil-34/pratikshapatil-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey there, I'm Pratiksha<span style="color:#00bfff"></span></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Just a modern coder, exploring the world of tech one commit at a time!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 👀 I’m passionate about **Technology & Innovation**  
+- 🌱 Currently learning **JavaScript** and **Frameworks**  
+- 📫 Reach me: **[pratikshappatil34gmail.com](mailto:pratikshappatil34gmail.com)**  
+- ⚡ Fun fact: *Mitochondria is the powerhouse of the cell* 🧬  
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  
+  <a href="[https://linkedin.com/in/YourUsername](https://www.linkedin.com/in/pratiksha-patil-518907284/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YourUsername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+---
+
+## 🎯 Fun Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+<p align="center">💡 *Code. Learn. Build. Repeat.* 💡</p>
