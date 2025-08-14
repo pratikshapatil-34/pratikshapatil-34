@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/62/55/2d62553f647f7e4a4a7ed6d54a86c8b7.gif" width="600" />
+  <img src="https://pin.it/50LBhBzoZ" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Pratiksha<span style="color:#00bfff"></span></h1>
