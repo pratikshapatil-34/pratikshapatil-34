@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/50LBhBzoZ" />
+    
 </p>
 
 <h1 align="center">👋 Hey there, I'm Pratiksha<span style="color:#00bfff"></span></h1>
@@ -13,8 +13,7 @@
 ## 🧑‍💻 About Me
 - 👀 I’m passionate about **Technology & Innovation**  
 - 🌱 Currently learning **JavaScript** and **Frameworks**  
-- 📫 Reach me: **[pratikshappatil34gmail.com](mailto:pratikshappatil34gmail.com)**  
-- ⚡ Fun fact: *Mitochondria is the powerhouse of the cell* 🧬  
+- 📫 Reach me: **[pratikshappatil34gmail.com](mailto:pratikshappatil34gmail.com)**    
 
 ---
 
