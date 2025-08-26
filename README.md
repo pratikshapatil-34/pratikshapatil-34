@@ -2,20 +2,17 @@
     
 </p>
 
-<h1 align="center">👋 Hey there, I'm Pratiksha<span style="color:#00bfff"></span></h1>
+<h1 align="center">👋 Hey there, I'm Pratiksha Patil<span style="color:#00bfff"></span></h1>
 
 <p align="center">
   🚀 Just a modern coder, exploring the world of tech one commit at a time!
 </p>
-
----
 
 ## 🧑‍💻 About Me
 - 👀 I’m passionate about **Technology & Innovation**  
 - 🌱 Currently learning **JavaScript** and **Frameworks**  
 - 📫 Reach me: **[pratikshappatil34gmail.com](mailto:pratikshappatil34gmail.com)**    
 
----
 
 ## 🌐 Connect with Me  
 <p align="center">
@@ -27,12 +24,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
----
 
 ## 🎯 Fun Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
----
 <p align="center">💡 *Code. Learn. Build. Repeat.* 💡</p>
