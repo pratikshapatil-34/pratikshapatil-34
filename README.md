@@ -2,7 +2,7 @@
     
 </p>
 
-<h1 align="center">Hi 👋 I'm Pratiksha Patil  
+<h1 align="center">Hi 👋 I'm Pratiksha Patil  ,
 Full Stack MERN Developer | AI-Powered Web Applications<span style="color:#00bfff"></span></h1>
 
 <p align="center">
@@ -10,7 +10,6 @@ Full Stack MERN Developer | AI-Powered Web Applications<span style="color:#00bff
 </p>
 
 ## 🧑‍💻 About Me
-## 👨‍💻 About Me
 
 - 🚀 Full Stack Developer focused on MERN stack applications
 - 🤖 Currently building AI-powered web applications
