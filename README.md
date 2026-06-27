@@ -25,6 +25,10 @@ Full Stack MERN Developer | AI-Powered Web Applications<span style="color:#00bff
   <a href="https://www.linkedin.com/in/pratiksha-patil-518907284/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/IK2DAMXx9f/">
+    <img src="https://shields.io" />
+</a>
   
 
 <p align="center">💡 *Code. Learn. Build. Repeat.* 💡</p>
