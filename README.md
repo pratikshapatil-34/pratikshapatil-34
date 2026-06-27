@@ -27,7 +27,7 @@ Full Stack MERN Developer | AI-Powered Web Applications<span style="color:#00bff
   </a>
 
   <a href="https://leetcode.com/u/IK2DAMXx9f/">
-    <img src="https://shields.io" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=black "/>
 </a>
   
 
